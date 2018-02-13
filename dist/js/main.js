@@ -1,0 +1,1 @@
+console.log("this is appjs"),console.log("this is line 3"),console.log("this is other file"),console.log("hello from line 3");
